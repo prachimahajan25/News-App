@@ -8,3 +8,5 @@ Kotlin
 
 Android Studio
 
+## Third Party library used : 
+Retrofit ( Primarily used for making HTTP requests to web services and APIs)
