@@ -10,3 +10,7 @@ Android Studio
 
 ## Third Party library used : 
 Retrofit ( Primarily used for making HTTP requests to web services and APIs)
+
+## News API
+
+https://newsapi.org/v2/top-headlines?country=in&apiKey 
